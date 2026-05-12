@@ -111,13 +111,13 @@ Inspired by Arrived.com and supported by the open-source work of the React and T
 ## Clone
 
 ```
-   git clone https://github.com/goldenbusiness10/RentVerse-MVP
+   git clone https://github.com/kevim-nektra/rentverse-demo.git
 ```
 
 ## Change directory
 
 ```
-   cd RentVerse-MVP
+   cd rentverse-demo
 ```
 
 ## Install dependencies
